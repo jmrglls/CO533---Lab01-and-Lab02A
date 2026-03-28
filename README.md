@@ -89,9 +89,8 @@ Each exercise includes:
 ---
 
 # 👨‍💻 Submitted by:
+** *Josep Melvin L. Arguelles*
 
-**Your Name:** *Josep Melvin L. Arguelles*
-**Course:** *MEng PSE*
 
 
 ---
