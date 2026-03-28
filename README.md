@@ -1,5 +1,3 @@
----
-
 # 📘 LAB 01: LLM API Fundamentals
 
 ## 🔹 Exercise 1: Multi-turn Context
