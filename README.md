@@ -1,15 +1,3 @@
-# 🤖 Agentic AI with Ollama — Laboratory Exercises
-
-This repository contains my implementation and walkthrough recordings for:
-
-* **LAB 01: LLM API Fundamentals and Multi-turn Context using Ollama**
-* **LAB 02A: Agentic Workflow Patterns (Ollama Implementation)**
-
-Each exercise includes:
-
-* ✅ Source code
-* 🎥 YouTube demo (unlisted)
-
 ---
 
 # 📘 LAB 01: LLM API Fundamentals
@@ -89,8 +77,6 @@ Each exercise includes:
 ---
 
 # 👨‍💻 Submitted by:
-** *Josep Melvin L. Arguelles*
-
-
+*Josep Melvin L. Arguelles*
 
 ---
