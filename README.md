@@ -3,10 +3,10 @@
 ## 🔹 Exercise 1: Multi-turn Context
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_01_Multiturn/Multi_turn.py`
 
-**🎥 Demo Video:**
-👉 *(Paste your YouTube link here)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/Jc6JKmh-1Ow)*
 
 ---
 
@@ -17,60 +17,60 @@
 ## 🔹 Exercise 1: Prompt Chaining
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/prompt_chaining.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/zcxOjiAmx2E)*
 
 ---
 
 ## 🔹 Exercise 2: Routing
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/routing.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/9nWQIX-zNt8)*
 
 ---
 
 ## 🔹 Exercise 3: Parallelization
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/parallelization.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/1wwB3JkZz1s)*
 
 ---
 
 ## 🔹 Exercise 4: Orchestrator–Workers
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/orchestrator_workers.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/xx3BDcWq1XE)*
 
 ---
 
 ## 🔹 Exercise 5: Evaluator–Optimizer
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/evaluator_optimizer.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/l9AJtXOyy8U)*
 
 ---
 
 ## 🔹 Exercise 6: Combined Patterns (Stretch Task)
 
 **📂 Code:**
-`LAB_01_MultiTurn/multi_turn.py`
+`LAB_02A/combine_patterns.py`
 
-**🎥 Demo:**
-👉 *(Paste link)*
+**🎥 Youtube Link:**
+👉 *(https://youtu.be/DRDVX0U3gSc)*
 
 ---
 
